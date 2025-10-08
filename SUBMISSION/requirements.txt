@@ -1,0 +1,11 @@
+# Core scientific and data libraries
+numpy==2.1.1
+pandas==2.2.3
+
+# Machine learning and clustering
+scikit-learn==1.5.2
+tensorflow==2.17.0
+
+# Visualization
+matplotlib==3.9.2
+seaborn==0.13.2

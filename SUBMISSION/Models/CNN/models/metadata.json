@@ -1,0 +1,10 @@
+{
+  "vocab_size": 21087,
+  "seq_len": 300,
+  "model_paths": {
+    "best": "C:\\Users\\Clarice Shim\\Desktop\\COS30049 Computing Technology Innovation project\\COS30049_Assign2\\models\\cnn_best.keras",
+    "final": "C:\\Users\\Clarice Shim\\Desktop\\COS30049 Computing Technology Innovation project\\COS30049_Assign2\\models\\cnn_final.keras",
+    "vectorizer_model": "C:\\Users\\Clarice Shim\\Desktop\\COS30049 Computing Technology Innovation project\\COS30049_Assign2\\models\\text_vectorizer_model",
+    "vocab_txt": "C:\\Users\\Clarice Shim\\Desktop\\COS30049 Computing Technology Innovation project\\COS30049_Assign2\\models\\vocab.txt"
+  }
+}
