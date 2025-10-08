@@ -69,7 +69,7 @@ python Models/Clustering/clustering_with_embeddings.py
 #### Running CNN Model
 *This is Jupyter notebook file. Please ensure you have Jupyter Notebook setup on your preferred IDE.*
 
-Simply open the Models/CNN folder, select the ```train_cnn.ipynb```, and click "Run all". 
+Simply open the Models/CNN folder, select the ```train_cnn.ipynb```, and click "Run all". <br>
 Simply open the Models/CNN folder, select the ```eval_and_export_cnn.ipynb```, and click "Run all". 
 
 Optionally, 
