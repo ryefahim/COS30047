@@ -31,8 +31,8 @@ Rye Mohammed Fahim 104557267
 ### 1. Clone Repository and Install Dependencies
 Clone repository and enter SUBMISSION directory
 ```
-git clone https://github.com/ryefahim/COS30049_Assign2.git
-cd COS30049_Assign2/SUBMISSION
+git clone https://github.com/ryefahim/COS30049.git
+cd COS30049/SUBMISSION
 ```
 
 Pip install requirements
