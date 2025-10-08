@@ -45,7 +45,7 @@ pip install -r requirements.txt
 #### Running Classification Model
 *This is Jupyter notebook file. Please ensure you have Jupyter Notebook setup on your preferred IDE.*
 
-Simply open the folder, select the ```NBmodel.ipynb```, and click "Run all". 
+Simply open the Models/Classification folder, select the ```NBmodel.ipynb```, and click "Run all". 
 
 Optionally, 
 1. Launch Jupyter Notebook from Terminal
@@ -69,7 +69,10 @@ python Models/Clustering/clustering_with_embeddings.py
 #### Running CNN Model
 *This is Jupyter notebook file. Please ensure you have Jupyter Notebook setup on your preferred IDE.*
 
-Simply open the folder, select the NBmodel.ipynb, and click "Run all". 
-```
-python Models/Clustering/clustering_with_embeddings.py
-```
+Simply open the Models/CNN folder, select the ```train_cnn.ipynb```, and click "Run all". 
+Simply open the Models/CNN folder, select the ```eval_and_export_cnn.ipynb```, and click "Run all". 
+
+Optionally, 
+1. Launch Jupyter Notebook from Terminal
+2. Open Models/Classification/train_cnn.ipynb in the browser and run all cells
+3. Open Models/Classification/eval_and_export_cnn.ipynb in the browser and run all cells
