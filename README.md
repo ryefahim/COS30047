@@ -1,7 +1,7 @@
 ## COS30049 Assignment 2
 Computing Technology Innovation Project<br>
 AI-based Project for Cybersecurity (AI4Cyber)<br>
-Swinburne University of Technology
+Swinburne University of Technology<br>
 Session 7 Group 4
 
 **Group Members**<br>
