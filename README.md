@@ -50,21 +50,26 @@ Simply open the Models/Classification folder, select the ```NBmodel.ipynb```, an
 Optionally, 
 1. Launch Jupyter Notebook from Terminal
 2. Open Models/Classification/NBmodel.ipynb in the browser and run all cells
+3. Results would be stored under the same /Models/Classification/ Folder. 
+
 
 #### Running Clustering Model
 Simply open the folder, select the file ```clustering_without_embeddings.py``` or ```clustering_with_embeddings.py```, and click "Run". 
 
 Optionally, you can run these Python files from terminal:
 
-Run clustering without embeddings
+**Run clustering without embeddings**
 ```
 python Models/Clustering/clustering_without_embeddings.py
 ```
+Results stored under /Models/Clustering/results/without_embeddings
 
-Run clustering with embeddings
+**Run clustering with embeddings**
 ```
 python Models/Clustering/clustering_with_embeddings.py
 ```
+Results stored under /Models/Clustering/results/with_embeddings
+
 
 #### Running CNN Model
 *This is Jupyter notebook file. Please ensure you have Jupyter Notebook setup on your preferred IDE.*
@@ -76,3 +81,5 @@ Optionally,
 1. Launch Jupyter Notebook from Terminal
 2. Open Models/Classification/train_cnn.ipynb in the browser and run all cells
 3. Open Models/Classification/eval_and_export_cnn.ipynb in the browser and run all cells
+4. Results would be stored under /Models/CNN/ folder
+
