@@ -8,10 +8,10 @@ Angelina The 103162372<br>
 Clarice Victoria Zi Wang Shim 102788227<br>
 Rye Mohammed Fahim 104557267 
 
-## Folder Structure
-**Raw Data** - Contains pre-cleaned and cleaned data of datasets used in this project
-**Data Processing** - Contains scripts to split, join, and clean data
-**Final Data** - Contains processed data (for testing, training, validation)
+## Folder Structure<br>
+**Raw Data** - Contains pre-cleaned and cleaned data of datasets used in this project<br>
+**Data Processing** - Contains scripts to split, join, and clean data<br>
+**Final Data** - Contains processed data (for testing, training, validation)<br>
 **Models** - Contains Classification, Clustering, and CNN Models
 
 ## How to run our project:
